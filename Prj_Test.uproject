@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{C192CD4D-41AC-51E7-3DE6-D1B848D94798}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Prj_Test",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"UMG"
+			]
+		}
+	]
+}
